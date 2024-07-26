@@ -1,7 +1,7 @@
 {
   "name": "html-pdf-node",
   "version": "1.0.7",
-  "description": "Convert any html content or html page to PDF. (Con version puppeteer 22.6.0) ",
+  "description": "Convert any html content or html page to PDF. (Con version puppeteer 22.6.0) !",
   "main": "index.js",
   "directories": {
     "test": "tests"
