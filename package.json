@@ -15,26 +15,12 @@
     "bluebird": "^3.7.2",
     "handlebars": "^4.7.6",
     "inline-css": "^3.0.0",
-    "puppeteer-core": "^22.6.4",
-	"@sparticuz/chromium": "^123.0.6"
+    "puppeteer-core": "^22.11.0",
+	"@sparticuz/chromium": "^126.0.0"
   },
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^8.0.1"
-  },
-  "keywords": [
-    "html",
-    "pdf",
-    "nodejs",
-    "puppeteer",
-    "handlebars"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mrafiqk/html-pdf-node.git"
-  },
-  "bugs": {
-    "url": "https://github.com/mrafiqk/html-pdf-node/issues"
-  },
-  "homepage": "https://github.com/mrafiqk/html-pdf-node#readme"
+  }
+
 }
